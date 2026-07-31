@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6A7&height=200&section=header&text=Hi%20there,%20I'm%20Pratik%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6A7&height=200&section=header&text=Hi%20there,%20I'm%20Pratik%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6A7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Machine+Learning;Turning+Raw+Data+into+Real+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
@@ -21,6 +21,8 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C6A7&height=3&animation=twinkling" width="100%"/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -39,6 +41,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6A7,50:2C5364,100:0F2027&height=3&animation=twinkling" width="100%"/>
 
 <br>
 
@@ -106,6 +110,8 @@ My personal portfolio website showcasing projects, skills, and resume — built 
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C6A7&height=3&animation=twinkling" width="100%"/>
 
 <br>
 
@@ -185,4 +191,4 @@ I write original Hindi/Hinglish lyrics and shayari, and produce it into full tra
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A7,50:2C5364,100:0F2027&height=120&section=footer&animation=twinkling" width="100%"/>
