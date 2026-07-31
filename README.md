@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6A7&height=200&section=header&text=Hi%20there,%20I'm%20Pratik&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6A7&height=200&section=header&text=Hi%20there,%20I'm%20Pratik%20G&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&fontFamily=Garamond" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6A7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Machine+Learning;Turning+Raw+Data+into+Real+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/32/graduation-cap.png" width="26" align="center"/> ## About Me
+## <img src="https://img.icons8.com/color/32/graduation-cap.png" width="26" align="center"/> About Me
 
 - Recent **Information Science & Engineering** graduate — JSS Academy of Technical Education (VTU), **8.3 CGPA**
 - Actively looking for **Data Analyst** roles — open to **Bengaluru, Mumbai, and Pune**
@@ -23,7 +23,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C6A7&height=3&animation=twinkling" width="100%"/>
 
-<img src="https://img.icons8.com/color/32/settings.png" width="26" align="center"/> ## Tech Stack
+## <img src="https://img.icons8.com/color/32/settings.png" width="26" align="center"/> Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/32/rocket.png" width="26" align="center"/> ## Featured Projects
+## <img src="https://img.icons8.com/color/32/rocket.png" width="26" align="center"/> Featured Projects
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ My personal portfolio website showcasing projects, skills, and resume — built 
 
 <br>
 
-<img src="https://img.icons8.com/color/32/combo-chart.png" width="26" align="center"/> ## GitHub Stats
+## <img src="https://img.icons8.com/color/32/combo-chart.png" width="26" align="center"/> GitHub Stats
 
 <div align="center">
 
@@ -134,7 +134,7 @@ My personal portfolio website showcasing projects, skills, and resume — built 
 
 <br>
 
-<img src="https://img.icons8.com/color/32/source-code.png" width="26" align="center"/> ## Contribution Graph — Animated
+## <img src="https://img.icons8.com/color/32/source-code.png" width="26" align="center"/> Contribution Graph — Animated
 
 <div align="center">
 
@@ -146,7 +146,7 @@ My personal portfolio website showcasing projects, skills, and resume — built 
 
 <br>
 
-<img src="https://img.icons8.com/color/32/idea.png" width="26" align="center"/> ## A Few Things Beyond the Resume
+## <img src="https://img.icons8.com/color/32/idea.png" width="26" align="center"/> A Few Things Beyond the Resume
 
 <details>
 <summary><b>I also make music — click to see what "OffBeat" is about</b></summary>
@@ -179,7 +179,7 @@ I write original Hindi/Hinglish lyrics and shayari, and produce it into full tra
 
 <br>
 
-<img src="https://img.icons8.com/color/32/handshake.png" width="26" align="center"/> ## Let's Connect
+## <img src="https://img.icons8.com/color/32/handshake.png" width="26" align="center"/> Let's Connect
 
 <div align="center">
 
