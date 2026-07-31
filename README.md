@@ -16,7 +16,7 @@
 - Currently deepening my understanding of **Deep Learning** — ANNs, RNNs, and now moving into LSTMs
 - **NCC Gold Medalist**, and co-authored a paper at **NACI-2023**
 - Former **Managerial Board** member at **AIESEC in Bengaluru** — led cross-functional teams and stakeholder communication
-- Outside of data, I write and produce original Hindi/Hinglish music using AI tools, releasing it as **OffBeat**
+- Outside of data, I write and produce original Hindi/Hinglish music using AI tools, releasing it as **TheOFFBeat**
 - Ask me about: data cleaning, EDA storytelling, classification models, or how to make a dashboard actually useful to a stakeholder
 
 <br>
@@ -149,10 +149,10 @@ My personal portfolio website showcasing projects, skills, and resume — built 
 ## <img src="https://img.icons8.com/color/32/idea.png" width="26" align="center"/> A Few Things Beyond the Resume
 
 <details>
-<summary><b>I also make music — click to see what "OffBeat" is about</b></summary>
+<summary><b>I also make music — click to see what "TheOFFBeat" is about</b></summary>
 <br>
 
-I write original Hindi/Hinglish lyrics and shayari, and produce it into full tracks using AI music tools like Gemini, Suno, and Udio — released under the artist name **OffBeat** on YouTube. Genres span Bollywood-style ballads, hip-hop, and sufi-folk. Data by day, melodies by night.
+I write original Hindi/Hinglish lyrics and shayari, and produce it into full tracks using AI music tools like Gemini, Suno, and Udio — released under the artist name **TheOFFBeat** on YouTube. Genres span Bollywood-style ballads, hip-hop, and sufi-folk. Data by day, melodies by night.
 
 </details>
 
